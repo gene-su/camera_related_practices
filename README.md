@@ -1,4 +1,4 @@
-# lidar_related_practices
+# camera_related_practices
 ## gradient_magnitude
 ### original image
 ![image](images/original_image.png)
