@@ -17,3 +17,13 @@
 
 ### gradient magnitude with smoothing
 ![image](images/gradient_magnitude_with_smoothing.jpg)
+
+## harris_corner
+### corner response map
+![image](images/corner_response_map.png)
+
+### harris corner
+![image](images/harris_corner.png)
+
+### harris corner with non-maximum suppression
+![image](images/nms_harris_corner.png)

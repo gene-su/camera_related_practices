@@ -50,9 +50,9 @@ int main() {
     GradientMagnitude(img, gradient_magnitude);
 
     // show result
-    std::string windowName = "gradient magnitude";
-    cv::namedWindow(windowName, cv::WINDOW_NORMAL);
-    cv::imshow(windowName, gradient_magnitude);
+    std::string window_name = "gradient magnitude";
+    cv::namedWindow(window_name, cv::WINDOW_NORMAL);
+    cv::imshow(window_name, gradient_magnitude);
     cv::waitKey(0);
 
     return 0;
