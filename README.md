@@ -49,7 +49,12 @@ Each BRISK keypoint is associated with a 64-dimensional feature descriptor. each
 Each ORB keypoint is associated with a 32-dimensional feature descriptor. each element represent 8 bit, the result is a 256-bit binary array.
 
 [193, 249, 27, 113, 169, 221, 53, 166, 236, 105, 102, 24, 182, 148, 0, 48, 128, 30, 104, 64, 67, 189, 176, 35, 229, 225, 48, 51, 64, 16, 199, 251,]
+
 ## keypoint_matcher
-### SIFT keypoints
-### BRISK keypoints
-### ORB keypoints
+### FLANN with nearest neighbor 
+500 matches.
+![image](images/flann_nn.png)
+
+### FLANN with 2 nearest neighbor and 0.8 distance ratio
+355 matches.
+![image](images/flann_knn.png)
