@@ -58,3 +58,6 @@ Each ORB keypoint is associated with a 32-dimensional feature descriptor, and ev
 ### FLANN with 2 nearest neighbor and 0.8 distance ratio
 355 matches.
 ![image](images/flann_knn.png)
+
+## lidar_to_camera_projection
+![image](images/lidar_points_to_image_projection.png)
