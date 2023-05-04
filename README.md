@@ -61,3 +61,6 @@ Each ORB keypoint is associated with a 32-dimensional feature descriptor, and ev
 
 ## lidar_to_camera_projection
 ![image](images/lidar_points_to_image_projection.png)
+
+## object_detection
+![image](images/object_detection.png)
